@@ -1,0 +1,128 @@
+# here are the subjects (sessions) whose data have been submitted to single trial modelling
+# note that it is possible that some of the subjects may not be fully preprocessed (i.e., some error happened half way)
+
+
+
+ processed sub-03297.mat Mon Feb  7 21:04:42 EST 2022
+
+ processed sub-03320.mat Mon Feb  7 22:24:47 EST 2022
+
+ processed sub-03324.mat Mon Feb  7 22:24:47 EST 2022
+
+ processed sub-03339.mat Tue Feb  8 14:54:17 EST 2022
+
+ processed sub-03340.mat Tue Feb  8 14:54:18 EST 2022
+
+ processed sub-03365.mat Tue Feb  8 14:54:18 EST 2022
+
+ processed sub-03368.mat Tue Feb  8 14:54:19 EST 2022
+
+ processed sub-03373.mat Tue Feb  8 14:54:19 EST 2022
+
+ processed sub-03377.mat Tue Feb  8 14:54:19 EST 2022
+
+ processed sub-03380.mat Tue Feb  8 14:54:20 EST 2022
+
+ processed sub-03382.mat Tue Feb  8 14:54:20 EST 2022
+
+ processed sub-03404.mat Tue Feb  8 14:54:20 EST 2022
+
+ processed sub-03408.mat Tue Feb  8 14:54:21 EST 2022
+
+ processed sub-03421.mat Tue Feb  8 14:54:21 EST 2022
+
+ processed sub-03424.mat Tue Feb  8 14:54:22 EST 2022
+
+ processed sub-03434.mat Tue Feb  8 14:54:22 EST 2022
+
+ processed sub-03439.mat Tue Feb  8 14:54:22 EST 2022
+
+ processed sub-03448.mat Tue Feb  8 14:54:23 EST 2022
+
+ processed sub-03450.mat Tue Feb  8 14:54:23 EST 2022
+
+ processed sub-03451.mat Tue Feb  8 14:54:24 EST 2022
+
+ processed sub-03452.mat Tue Feb  8 14:54:24 EST 2022
+
+ processed sub-03453.mat Tue Feb  8 14:54:24 EST 2022
+
+ processed sub-03466.mat Tue Feb  8 14:54:25 EST 2022
+
+ processed sub-03468.mat Tue Feb  8 14:54:25 EST 2022
+
+ processed sub-03368.mat Wed Feb  9 13:02:38 EST 2022
+
+ processed sub-03439.mat Wed Feb  9 13:02:39 EST 2022
+
+ processed sub-03297.mat Thu Feb 10 16:19:54 EST 2022
+
+ processed sub-03320.mat Thu Feb 10 16:19:55 EST 2022
+
+ processed sub-03324.mat Thu Feb 10 16:19:55 EST 2022
+
+ processed sub-03339.mat Thu Feb 10 16:19:56 EST 2022
+
+ processed sub-03340.mat Thu Feb 10 16:19:56 EST 2022
+
+ processed sub-03365.mat Thu Feb 10 16:19:57 EST 2022
+
+ processed sub-03368.mat Thu Feb 10 16:19:57 EST 2022
+
+ processed sub-03373.mat Thu Feb 10 16:19:57 EST 2022
+
+ processed sub-03377.mat Thu Feb 10 16:19:58 EST 2022
+
+ processed sub-03380.mat Thu Feb 10 16:19:58 EST 2022
+
+ processed sub-03382.mat Thu Feb 10 16:19:59 EST 2022
+
+ processed sub-03404.mat Thu Feb 10 16:19:59 EST 2022
+
+ processed sub-03408.mat Thu Feb 10 16:20:00 EST 2022
+
+ processed sub-03421.mat Thu Feb 10 16:20:00 EST 2022
+
+ processed sub-03424.mat Thu Feb 10 16:20:00 EST 2022
+
+ processed sub-03434.mat Thu Feb 10 16:20:01 EST 2022
+
+ processed sub-03439.mat Thu Feb 10 16:20:01 EST 2022
+
+ processed sub-03448.mat Thu Feb 10 16:20:02 EST 2022
+
+ processed sub-03450.mat Thu Feb 10 16:20:02 EST 2022
+
+ processed sub-03451.mat Thu Feb 10 16:20:03 EST 2022
+
+ processed sub-03452.mat Thu Feb 10 16:20:03 EST 2022
+
+ processed sub-03453.mat Thu Feb 10 16:20:04 EST 2022
+
+ processed sub-03466.mat Thu Feb 10 16:20:04 EST 2022
+
+ processed sub-03468.mat Thu Feb 10 16:20:04 EST 2022
+
+ processed sub-03455.mat Sat Feb 19 11:59:46 EST 2022
+
+ processed sub-03460.mat Sat Feb 19 11:59:47 EST 2022
+
+ processed sub-03471.mat Sat Feb 19 11:59:47 EST 2022
+
+ processed sub-03479.mat Sat Feb 19 11:59:47 EST 2022
+
+ processed sub-03480.mat Sat Feb 19 11:59:48 EST 2022
+
+ processed sub-03481.mat Sat Feb 19 11:59:48 EST 2022
+
+ processed sub-03482.mat Sat Feb 19 11:59:49 EST 2022
+
+ processed sub-03491.mat Sat Feb 19 11:59:49 EST 2022
+
+ processed sub-03494.mat Sat Feb 19 11:59:49 EST 2022
+
+ processed sub-03499.mat Sat Feb 19 11:59:50 EST 2022
+
+ processed sub-03502.mat Sat Feb 19 11:59:50 EST 2022
+
+ processed sub-03508.mat Sat Feb 19 11:59:51 EST 2022

@@ -1,6 +1,0 @@
-Each .MAT file should contain information for the STwrapper script. 
-
-In this case, there are 3 pieces of information:
-1) scan day - indicating the type of task
-2) subject ID - indicating the location of behavioral file
-3) scan ID - indicating the location of image file

@@ -1,0 +1,3 @@
+this is the folder containing .MAT files that help Matlab locate the correct behavioral and image files
+
+Put the new files (associated with participants whose data are unprocessed) in the 'to_be_submitted' folder. The script will move the files to 'already_submitted' after processing is completed
